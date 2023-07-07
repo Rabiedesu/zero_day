@@ -1,2 +1,1 @@
-this is a vm project 
-# zero_day
+hi 0x00-vagrant
